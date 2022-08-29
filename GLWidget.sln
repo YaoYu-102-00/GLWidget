@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.32413.511
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "GLWidget", "GLWidget\GLWidget.vcxproj", "{A99018F0-063E-431C-B988-C8C869289C7A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Release|x64 = Release|x64
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A99018F0-063E-431C-B988-C8C869289C7A}.Debug|x64.ActiveCfg = Debug|x64
+		{A99018F0-063E-431C-B988-C8C869289C7A}.Debug|x64.Build.0 = Debug|x64
+		{A99018F0-063E-431C-B988-C8C869289C7A}.Release|x64.ActiveCfg = Release|x64
+		{A99018F0-063E-431C-B988-C8C869289C7A}.Release|x64.Build.0 = Release|x64
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C0801821-4525-4109-AC64-D6E39FDB9C80}
+	EndGlobalSection
+EndGlobal
